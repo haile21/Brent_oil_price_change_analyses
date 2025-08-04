@@ -27,18 +27,7 @@ The dataset includes historical Brent oil prices from **May 20, 1987, to Septemb
 - Probability distributions
 - Bayesian inference
 - Model comparison
-- Policy analysis
-
-### Communication
-- Reporting to government bodies
-
-## Team
-- **Tutors**: Mahlet, Rediet, Kerod, Rehmet
-
-## Key Dates
-- **Discussion on the case**: Wednesday, July 30, 2025 (#all-week10)
-- **Interim Solution**: August 1, 2025, 20:00 UTC
-- **Final Submission**: August 5, 2025, 20:00 UTC
+- Policy analysis 
 
 ## Instructions
 Focus on:
