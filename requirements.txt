@@ -5,7 +5,7 @@ statsmodels
 seaborn
 statsmodels
 wbdata
-sklearn
+scikit-learn
 tensorflow
 flask
 flask_cors
